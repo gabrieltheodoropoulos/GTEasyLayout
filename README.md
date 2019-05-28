@@ -26,6 +26,8 @@ public protocol GTEasyLayoutAdaptable {
 
 See the *GTEasyLayout.swift* file for documentation on the custom types appearing above and the *GTEasyLayoutAdaptable.swift* for documentation regarding each method. If you want, take a look at this [generated documentation](https://gtiapps.com/docs/gteasylayout/index.html) by [jazzy](https://github.com/realm/jazzy).
 
+---
+
 ### Integration
 
 GTEasyLayout can be integrated into a project in two different ways:
@@ -47,6 +49,8 @@ import GTEasyLayout
 #### Manually
 
 Download or clone this repository, then add the *Source* directory along with the two contained files into your project.
+
+---
 
 ### Usage Examples
 
@@ -94,6 +98,8 @@ updateDimension(.height, ofView: someView, newValue: 400.0, animationSettings: n
 If you don't want to animate changes on constraints, then initialize a `GTEasyLayout.AnimationSettings` object and set the `duration` to zero.
 
 See the wiki for visual examples of the above, or open the sample project in Xcode to see everything in action.
+
+---
 
 ### Other Notes
 
