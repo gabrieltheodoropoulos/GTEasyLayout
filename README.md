@@ -97,7 +97,7 @@ updateDimension(.height, ofView: someView, newValue: 400.0, animationSettings: n
 
 If you don't want to animate changes on constraints, then initialize a `GTEasyLayout.AnimationSettings` object and set the `duration` to zero.
 
-See the wiki for visual examples of the above, or open the sample project in Xcode to see everything in action.
+See the [wiki](https://github.com/gabrieltheodoropoulos/GTEasyLayout/wiki) for visual examples of the above, or open the sample project in Xcode to see everything in action.
 
 ---
 
