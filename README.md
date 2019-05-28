@@ -1,6 +1,6 @@
-## GTEasyLayout
+# GTEasyLayout
 
-### What is GTEasyLayout?
+## What is GTEasyLayout?
 
 In short, *GTEasyLayout minimizes the effort of adding subviews and setting up their constraints when implementing the UI in code*. It's the perfect tool to use when constraints are not extremely complicated and typing a bunch of similar lines for multiple views becomes tiring and anti-productive.
 
@@ -28,11 +28,11 @@ See the *GTEasyLayout.swift* file for documentation on the custom types appearin
 
 ---
 
-### Integration
+## Integration
 
 GTEasyLayout can be integrated into a project in two different ways:
 
-#### Using CocoaPods
+### Using CocoaPods
 
 In your Podfile add:
 
@@ -46,13 +46,13 @@ Remember to *import* the framework anywhere you are about to use it:
 import GTEasyLayout
 ```
 
-#### Manually
+### Manually
 
 Download or clone this repository, then add the *Source* directory along with the two contained files into your project.
 
 ---
 
-### Usage Examples
+## Usage Examples
 
 First, make your class conform to the `GTEasyLayoutAdaptable` protocol:
 
@@ -101,7 +101,7 @@ See the wiki for visual examples of the above, or open the sample project in Xco
 
 ---
 
-### Other Notes
+## Other Notes
 
 GTEasyLayout is a work in progress, and new functionalities will be added at the course of time.
 
