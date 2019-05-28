@@ -1,5 +1,10 @@
 # GTEasyLayout
 
+![Platform](https://img.shields.io/cocoapods/p/GTEasyLayout.svg)
+![Language](https://img.shields.io/github/languages/top/gabrieltheodoropoulos/GTEasyLayout.svg?color=orange)
+![License](https://img.shields.io/github/license/gabrieltheodoropoulos/GTEasyLayout.svg)
+![Version](https://img.shields.io/cocoapods/v/GTEasyLayout.svg)
+
 ## What is GTEasyLayout?
 
 *GTEasyLayout* is a small framework written in Swift which aims to *minimise the effort of adding subviews and setting up their constraints when implementing UI in code for iOS apps*. It's the perfect tool to use when constraints are not extremely complicated and typing a bunch of similar lines for multiple views becomes tiring and anti-productive.
